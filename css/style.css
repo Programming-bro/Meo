@@ -1,0 +1,40 @@
+/* Add all your styles here */
+
+body{
+  margin:5px 15px;
+  font-family: 'Poppins', sans-serif;
+}
+.navbar{
+  border-radius: 5px;
+  margin-bottom: 2px;
+}
+.jumbotron{
+  background-color:#F0F8FF;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius:5px;
+  box-shadow: 5px 7px 40px gray;
+}
+.btn-primary{
+  background:linear-gradient(45deg, #3366ff, #66ccff) ;
+  border: 0;
+}
+.jumbotron h1{
+  font-size: 50px;
+}
+.jumbotron p{
+  font-family: 'Poppins', sans-serif;
+}
+.card{
+  margin-bottom: 10px;
+  box-shadow: 5px 7px 40px gray;
+}
+.btn-rr{
+  margin-left: 70%;
+}
+.card-img-top{
+  padding:10px;
+}
+footer{
+  text-align: center;
+}
