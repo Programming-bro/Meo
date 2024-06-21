@@ -3,17 +3,22 @@
 body{
   margin:5px 15px;
   font-family: 'Poppins', sans-serif;
+  text-align: justify;
 }
 .navbar{
   border-radius: 5px;
   margin-bottom: 2px;
 }
+.carousel{
+  padding: 40px;
+}
 .jumbotron{
   background-color:#F0F8FF;
   padding: 10px;
-  margin: 5px 0;
+  margin: 40px;
   border-radius:5px;
   box-shadow: 5px 7px 40px gray;
+  text-align: justify;
 }
 .btn-primary{
   background:linear-gradient(45deg, #3366ff, #66ccff) ;
