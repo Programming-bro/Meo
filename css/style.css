@@ -10,7 +10,7 @@ body{
   margin-bottom: 2px;
 }
 .carousel{
-  padding: 40px;
+  padding: 5%;
 }
 .jumbotron{
   background-color:#F0F8FF;
@@ -33,6 +33,7 @@ body{
 .card{
   margin: 20px;
   box-shadow: 5px 7px 40px gray;
+  float: left;
 }
 .btn-rr{
   margin-left: 70%;
